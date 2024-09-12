@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach me at s.koval@mail.utoronto.ca"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sviatoslav Koval",
+    "section": "",
+    "text": "This is Sviatoslav Koval’s website."
+  }
+]
